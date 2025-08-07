@@ -1,23 +1,23 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Assignment 6: Modeling Collective Behavior in Ants
+# #  Modeling Collective Behavior in Ants
 # 
 # ### Assignment description:
 # 
-# In this assignment you will translate the simple ordinary differential equation (ODE) model as described in the Pratt lecture into an agent-based model. You will explore the implementation of agent based models in Python by using the ``Mesa`` package and compare your results to those from the ODE model.
+# Translate the simple ordinary differential equation (ODE) model as described in the Pratt lecture into an agent-based model. You will explore the implementation of agent based models in Python by using the ``Mesa`` package and compare your results to those from the ODE model.
 # 
-# ### Assignment goals:
+# ### Goals:
 # 
-# 1. Learn how to convert an ODE model to an agent based model.
-# 2. Demonstrate the ability to create an agent based model using the `Mesa` package
+# 1. Convert an ODE model to an agent-based model.
+# 2. Demonstrate the ability to create an agent-based model using the `Mesa` package
 # 
 # ### Assignment question overview:
 # 
 # 1. Write the Ant agent class to complete the agent based model. [Question 1](#question1)
 # 
 # 
-# Please run the below code to install the appropriate libraries.
+# Please run the code below to install the appropriate libraries.
 
 # In[39]:
 
