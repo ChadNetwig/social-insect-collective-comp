@@ -47,14 +47,6 @@ This simulation models **tandem running** and **commitment dynamics** in an ant 
    cd social-insect-collective-comp
    ```
 
-2. Open the simulation:
-
-- Either run cse598-proj5-code-FINAL.html in your browser
-
-- Or analyze/edit the simulation logic in a text or HTML editor
-
-Note: You may open it locally (no server required).
-
 ## 📊 Visualizing the Results
 
 A time series graph is generated to show the remaining food in each feeder over the course of the simulation.
