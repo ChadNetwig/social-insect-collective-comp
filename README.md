@@ -27,7 +27,7 @@ This simulation models **tandem running** and **commitment dynamics** in an ant 
 <img src="./assets/flow_chart_pt2.png" alt="Committed state flow" width="400"/>
 
 **Phase 3 – Recruitment Dynamics**  
-<img src="./assets/flow_chart_pt3.png" alt="Recruitment logic" width="400"/>
+<img src="./assets/flow_chart_pt3.png" alt="Recruitment logic" width="300"/>
 
 **Grid Layout of Nest and Feeders**  
 <img src="./assets/grid_feeders.png" alt="Grid simulation of nest and feeders" width="400"/>
