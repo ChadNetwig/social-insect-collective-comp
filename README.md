@@ -67,7 +67,6 @@ Simulation results are expected to resemble this pattern to be considered valid.
 The code used to generate the plot is included in the repository. Test case validation scripts are not visible.
 
 ## 📌 Important Notes
-- This project models concepts from Project 5: Modeling Collective Behavior in Ants from ASU’s CSE598 Bio-Inspired Computing course.
 
 - The biological inspiration for this project is derived from Deborah Gordon’s work on ant decision-making and collective computation.
 
