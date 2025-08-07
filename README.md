@@ -3,7 +3,7 @@
 ## 📝 Overview
 This project simulates the collective behavior of ants using a state-machine-based approach to model decision-making, recruitment, and foraging. Inspired by the principles of bio-inspired computing, it explores how simple local rules can lead to intelligent global behavior without centralized control. 
 
-This simulation models **tandem running** and **commitment dynamics** in an ant colony choosing between two food sources of different quality. It is based on Project 5 of ASU's CSE598 Bio-Inspired Computing course and aligns with current research in **swarm intelligence**, **emergent behavior**, and **collective decision-making**.
+This simulation models **tandem running** and **commitment dynamics** in an ant colony choosing between two food sources of different quality. It is based on Bio-Inspired Computing and aligns with current research in **swarm intelligence**, **emergent behavior**, and **collective decision-making**.
 
 ## ✨ Key Features
 - Models **uncommitted**, **committed**, and **recruiting** ant states
